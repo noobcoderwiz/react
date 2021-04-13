@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome to React Vikarn test for deployment
+          Confirmer working for Vikarn
         </a>
       </header>
     </div>
